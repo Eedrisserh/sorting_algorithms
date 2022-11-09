@@ -1,6 +1,6 @@
-# sorting_algorithms
+#### sorting_algorithms
 
-##Bubble Sort:
+### Bubble Sort:
 
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm 
 
@@ -12,7 +12,7 @@ in the best case
 in the average case
 in the worst case
 
-###Insertion Sort:
+### Insertion Sort:
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
@@ -25,7 +25,7 @@ in the best case
 in the average case
 in the worst case
 
-###Selection sort
+### Selection sort
 
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
@@ -37,7 +37,7 @@ in the best case
 in the average case
 in the worst case
 
-###Quick sort
+### Quick sort
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
@@ -51,7 +51,7 @@ in the best case
 in the average case
 in the worst case
 
-###Shell sort - Knuth Sequence
+### Shell sort - Knuth Sequence
 
 Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
 
@@ -62,7 +62,7 @@ n+1 = n * 3 + 1
 You’re expected to print the array each time you decrease the interval (See example below).
 No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap
 
-###Cocktail shaker sort
+### Cocktail shaker sort
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
 
@@ -90,7 +90,7 @@ in the best case
 in the average case
 in the worst case
 
-###Merge sort
+### Merge sort
 
 Write a function that sorts an array of integers in ascending order using the Merge sort algorithm
 
@@ -108,7 +108,7 @@ in the average case
 in the worst case
 
 
-###Heap sort
+### Heap sort
 
 Write a function that sorts an array of integers in ascending order using the Heap sort algorithm
 
@@ -121,7 +121,7 @@ in the best case
 in the average case
 in the worst case
 
-###Radix sort
+### Radix sort
 
 Write a function that sorts an array of integers in ascending order using the Radix sort algorithm
 
@@ -132,7 +132,7 @@ You are allowed to use malloc and free for this task
 You’re expected to print the array each time you increase your significant digit (See example below)
 
 
-###Bitonic sort
+### Bitonic sort
 
 Write a function that sorts an array of integers in ascending order using the Bitonic sort algorithm
 
@@ -147,7 +147,7 @@ in the best case
 in the average case
 in the worst case
 
-###Quick Sort - Hoare Partition scheme
+### Quick Sort - Hoare Partition scheme
 
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
@@ -161,7 +161,7 @@ in the best case
 in the average case
 in the worst case
 
-###Dealer
+### Dealer
 
 Write a function that sorts a deck of cards.
 
